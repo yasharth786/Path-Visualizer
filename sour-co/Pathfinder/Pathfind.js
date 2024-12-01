@@ -486,7 +486,7 @@ const changeWallWeight = () => {
 						</ul>
 						<br></br><br></br><br></br>
 						<span>
-							Made by Purvi Maheshwari
+							Made by Yasharth Singh
 						</span>
 						<br></br>
 				</div>
